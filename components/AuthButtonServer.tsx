@@ -16,5 +16,5 @@ export async function AuthButtonServer() {
   //   getSession();
   // }, []);
 
-  return <AuthButtonClient session={session}/>
+  return <AuthButtonClient session={session} />;
 }
