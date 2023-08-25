@@ -1,4 +1,4 @@
-import { AuthButtonServer } from "@/components/AuthButtonServer"
+import { AuthButtonServer } from "@/app/components/AuthButtonServer"
 
 export default function Login() {
   return (
